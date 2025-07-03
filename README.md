@@ -1,13 +1,15 @@
 <h1>🚘 Car Dealership MobileApp </h1>
 
-<img src="assets/images/git/1.jpg" alt="kwheels_homepage">
+<img src="assets/images/git/5.png" alt="kwheels_homepage">
 
 <p align="justify">This mobile app named 'KWheels' allows users to browse cars from a custom-built database, using
     various filtering and sorting options. Users have the ability to create an account, log in, and add their favorite
     cars to a personal garage. There is a FAQ section to help answer common questions, and if the user doesn't find what
     they're looking for, they can submit their own question through a contact form. There is also a loan calculator
-    available to make it easier to estimate car financing.
+    available to make it easier to estimate car financing. 
 </p>
+
+<p align="justify">The splash screen with the Logo is loaded when launching the application, some seconds later the home page loads in.</p>
 
 <h2>Features</h2>
 
